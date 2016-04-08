@@ -10,11 +10,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.LinkedBlockingQueue;
 
-//add new dev branch 1
-//dev2
-//modified by jack gao
+//这是第一个东西上的
 public class ExecutorServiceTest {
-	//差不多了1
+	//谢谢1
 	public static final Random rd=new Random();
 	public static final BlockingQueue<String> queue=new LinkedBlockingQueue<String>();
 	
