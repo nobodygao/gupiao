@@ -14,7 +14,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 //dev2
 //modified by jack gao
 public class ExecutorServiceTest {
-	
+	//≤Ó≤ª∂‡¡À1
 	public static final Random rd=new Random();
 	public static final BlockingQueue<String> queue=new LinkedBlockingQueue<String>();
 	
