@@ -10,7 +10,14 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.LinkedBlockingQueue;
 
+<<<<<<< HEAD
 //这是第一个东西上的
+=======
+//add new dev branch 1
+//dev2
+//modified by jack gao
+//test2
+>>>>>>> branch 'master' of https://github.com/nobodygao/gupiao.git
 public class ExecutorServiceTest {
 	//谢谢1
 	public static final Random rd=new Random();
