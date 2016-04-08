@@ -13,8 +13,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 //add new dev branch 1
 //dev2
 //modified by jack gao
+//test2
 public class ExecutorServiceTest {
-	
+	//≤Ó≤ª∂‡¡À1
 	public static final Random rd=new Random();
 	public static final BlockingQueue<String> queue=new LinkedBlockingQueue<String>();
 	
