@@ -12,7 +12,7 @@ public class TestBase64 {
 		String s=new String(new BASE64Decoder().decodeBuffer(BASIC),"utf-8");
 		System.out.println(s);
 		
-
+		System.out.println("done");
 	}
 
 }
