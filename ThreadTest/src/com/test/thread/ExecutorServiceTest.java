@@ -12,6 +12,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 //这是第二个东西上的
 public class ExecutorServiceTest {
+
+	//谢谢1
 	public static final Random rd=new Random();
 	public static final BlockingQueue<String> queue=new LinkedBlockingQueue<String>();
 	
